@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724070354676",
+    "project_id": "projeto-lealapps",
+    "storage_bucket": "projeto-lealapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724070354676:android:35b810fa96efbdb2a658a1",
+        "android_client_info": {
+          "package_name": "com.vitor.projeto_lealapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724070354676-21mqorqfkksaqv03pg65515juvi5pl98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhyPXH13x28J4vLH5xiTAeWNRaKoUjbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724070354676-21mqorqfkksaqv03pg65515juvi5pl98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
